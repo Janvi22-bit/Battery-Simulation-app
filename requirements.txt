@@ -7,3 +7,4 @@ altair
 openpyxl
 xlsxwriter
 scipy
+streamliy-autorefresh
